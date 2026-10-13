@@ -1,2 +1,2 @@
-# cortega-ai-verifier-releases-macos
-Public Releases for Cortega AI Verifier MacOs Intel & ARM
+# cortega-ai-booster
+Public Releases for Cortega AI Booster MacOs/Windows
